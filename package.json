@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "master-script": "this is a master script and I also want to practice my typing"
+    "feature1": "this is feature1 ",
+    "master-script": "this is a master script and I also want to practice my typing",
+    "install": "this is a new one"
   },
   "keywords": [
     "this is main update"
