@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "master-script": "this is a master script and I also want to practice my typing"
   },
-  "keywords": [],
+  "keywords": [
+    "this is main update"
+  ],
   "author": "",
   "license": "ISC"
 }
